@@ -1,0 +1,10 @@
+{
+  "source": "受講者がColabの実行ログをチャットに転記",
+  "training_loss_by_step": {
+    "10": 1.564343,
+    "20": 0.097327
+  },
+  "training_seconds": 120,
+  "steps": 20,
+  "epochs": 10.0
+}
